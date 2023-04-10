@@ -1,5 +1,9 @@
 # Forecasting-Project
 Project on forecasting crude oil prices
+
+![image](https://user-images.githubusercontent.com/114068300/230830995-aedd83cc-0899-4dc9-893a-a1d3f5091772.png)
+
+
 Oil is a product that moves in completely different directions for a single market event because oil prices are rarely based on real-time data and are instead driven by externalities, making forecasting it even more difficult. As the economy will be highly affected by oil prices, our model will help to understand the pattern in prices to help customers and businesses make smart decisions.
 
 Crude oil price movements are influenced by a variety of factors. This dataset was retrieved from the U.S. Energy Information Administration.
